@@ -16,7 +16,7 @@
                 }
             }
         }
-        return  +pair[0] * +pair[1]; //838624
+        return  +pair[0] * +pair[1]; 
     }
       
     const threeItems = (input: string) => {
